@@ -1,14 +1,17 @@
 # Week 04
 
-## 진행범위
+## 진행 범위
+
 - ch20 ~ ch22
 
 ## 요약 문서
+
 - [ch20](../chapters/ch20/README.md)
 - [ch21](../chapters/ch21/README.md)
 - [ch22](../chapters/ch22/README.md)
 
 ## 핵심 요약
+
 - strict mode는 전역/함수 단위 적용을 피하고, 즉시 실행 함수로 스코프를 구분해 적용한다.
 - strict mode에서 일반 함수의 this는 undefined, 선언 없는 변수 할당은 ReferenceError가 발생한다.
 - 원시값에 마침표 접근 시 엔진이 **래퍼 객체**를 임시 생성하고, 접근 후 즉시 폐기한다.

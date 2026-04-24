@@ -1,9 +1,11 @@
 # Week 03
 
-## 진행범위
+## 진행 범위
+
 - ch01 ~ ch10
 
 ## 요약 문서
+
 - [ch01](../chapters/ch01/README.md)
 - [ch02](../chapters/ch02/README.md)
 - [ch04](../chapters/ch04/README.md)
