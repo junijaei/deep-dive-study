@@ -27,9 +27,9 @@ README.md              ← 전체 인덱스 + Progress 테이블
 | --- | --- |
 | [PROCESS.md](./PROCESS.md) | 문서 추가 시 전체 작업 순서 및 체크리스트 (시작점) |
 | [GENERATION_RULES.md](./GENERATION_RULES.md) | 각 파일 생성 상세 규칙 (aside 변환, 섹션 구조 등) |
-| [README_UPDATE_RULES.md](./README_UPDATE_RULES.md) | README.md 4개 영역 갱신 규칙 |
+| [README_UPDATE_RULES.md](./README_UPDATE_RULES.md) | README.md 3개 영역 갱신 규칙 |
 
 ## 핵심 제약
 
 - `weekXX_original.md`는 **절대 수정하지 않는다.**
-- 새 챕터 문서 생성 시 반드시 `README.md`의 4개 영역을 함께 갱신한다. → [PROCESS.md 5단계](./PROCESS.md#5단계-readmemd-업데이트) 참고
+- 새 챕터 문서 생성 시 반드시 `README.md`의 3개 영역을 함께 갱신한다. → [PROCESS.md 5단계](./PROCESS.md#5단계-readmemd-업데이트) 참고
