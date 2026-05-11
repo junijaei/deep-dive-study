@@ -26,7 +26,7 @@ chapters/
 
 ## Progress
 
-**20 / 49 챕터 완료** (40.8%)
+**21 / 49 챕터 완료** (42.9%)
 
 `█████████░░░░░░░░░░░░`
 
@@ -58,7 +58,7 @@ chapters/
 | [Week 04](./week/week04.md) | [ch20](./chapters/ch20/README.md) |                     strict mode                      | ✅   |
 | [Week 04](./week/week04.md) | [ch21](./chapters/ch21/README.md) |                     빌트인 객체                      | ✅   |
 | [Week 04](./week/week04.md) | [ch22](./chapters/ch22/README.md) |                         this                         | ✅   |
-|                             | ch23                              |                    실행 컨텍스트                     |      |
+| [Week 05](./week/week05.md) | [ch23](./chapters/ch23/README.md) |                    실행 컨텍스트                     | ✅   |
 |                             | ch24                              |                        클로저                        |      |
 | [Week 06](./week/week06.md) | [ch25](./chapters/ch25/README.md) |                        클래스                        | ✅   |
 | [Week 06](./week/week06.md) | [ch26](./chapters/ch26/README.md) |                 ES6 함수의 추가 기능                 | ✅   |
@@ -114,6 +114,10 @@ chapters/
 - [ch20 — strict mode](./chapters/ch20/README.md)
 - [ch21 — 빌트인 객체](./chapters/ch21/README.md)
 - [ch22 — this](./chapters/ch22/README.md)
+
+### Week 05
+
+- [ch23 — 실행 컨텍스트](./chapters/ch23/README.md)
 
 ### Week 06
 
